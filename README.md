@@ -34,3 +34,31 @@ Example
 
     </body>
     </html>
+
+Click on the "Try it Yourself" button to see how it works.
+
+# jQuery Exircise
+
+# Test Yourself With Exircises
+
+Exircise:
+
+Use the correct selector to hide all <P> elements.
+
+    $("    ").hide();
+
+# jQuery Examples
+Learn by examles! Aat W3Schools you will find a lot of jQuery examples to edit and test yourself.
+
+Do you wan to test your jQuery selector skills?
+
+# jQuery Selectors
+
+    $("p").hide() - Hide all <p> elements
+
+    $("#test").hide() - Hide the elements with id= "test"
+
+    $(".test").hide() - Hide all elements with class="test"
+
+    $(this).hide() - Hide the current HTML element
+  
